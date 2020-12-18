@@ -7,6 +7,7 @@ for example:
 the answer should be:
 
 "Genesis"
+
 at start we tried to solve simplier problem, instead classifying the sentance into book, we tried to classify it to old/new testament.
 
 to do so we used linear regression which we think is the best option for this problem.
