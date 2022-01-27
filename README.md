@@ -52,4 +52,4 @@ for example: Genesis -> [1,0,0,0,0...]
 than for every model we gave the right weights, bias and function (sigmoid, relu) and trained the set.
 
 somtimes the train set was all the data and somtimes we took 200 random verses from the data.
- 
+  
